@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="BLACK" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156.5 156.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff9398;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Elements-2" data-name="Elements">
+    <path class="cls-1" d="m48.21,101.99c-7.08,20.31,7.42,42.02,28.92,42.64.33,0,.65.01.98.01h0c2.95,0,5.82-.39,8.54-1.11,17.56-4.66,27.44-23.33,21.93-40.64L79.63,11.86l-31.43,90.13Z"/>
+  </g>
+</svg>
